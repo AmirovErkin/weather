@@ -1,9 +1,10 @@
-#WEATHER APP
+**WEATHER APP**
 
 **This program can provide you with the weather of different countries.**
 
 
-###Application guide:
+**Application guide:**
+
 **You enter the program through the link [Weather app](http://127.0.0.1:8000/) and the site will look like this**
 
 
